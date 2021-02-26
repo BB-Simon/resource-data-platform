@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="17" viewBox="0 0 189 17">
+    <g fill="none" fill-rule="evenodd" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" letter-spacing=".2">
+        <g fill="#1E2447">
+            <g>
+                <text transform="translate(-286 -140) translate(285 120)">
+                    <tspan x="0" y="39">Measurement Points</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
