@@ -38,6 +38,7 @@ const Home = () => {
       },
     });
     const data = await res.json();
+    // eslint-disable-next-line no-console
     console.log(data);
   };
 
